@@ -1,1 +1,1 @@
-'{"date":"09", "coin":"30", "diamond":"30"}'
+{"date09":"true", "date09coin":"30", "date09diamond":"30"}
